@@ -17,18 +17,22 @@ body
 
 .btn{
   padding: 10px 20px 10px 10px;
-  border-radius: 5px;
+  border-radius: 20px;
   border: solid #04C31C;
   background-color: #429904;
   color: black;
-  margin: 10px 0;
+  margin: 10px 10px;
   display: inline;
-  margin-left: 50%;
+
   transition: 0.3s;
 }
+
+
 .btn:hover{
 	transform: scale(1.2);
 }
+
+
 
 header, .wrapper, footer{
 /*	background: #fff;*/
