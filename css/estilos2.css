@@ -3,9 +3,16 @@
 	padding: 0;
 
 }
+
+.btn{
+	padding: 5px;
+	width: 50px;
+	margin: 3px;
+}
+
 body
 {
-	background: #e6e6e6;
+	background: #376453;
 }
 
 header, .wrapper, footer{
@@ -16,7 +23,7 @@ header, .wrapper, footer{
 }
 
 header nav{
-	background: #528FD5;
+	background: #987654;
 overflow: hidden;
 }
 
