@@ -1,0 +1,42 @@
+div{
+	width: 100px;
+	height: 100px;
+	background:#4A88F4;
+	color: #fff;
+	font-size: 30px;
+	float: left;
+}
+
+/* Aprendiendo los tipos de posicionamiento de existen */
+/* Relative: esto sirve para que las demas cajas no se muevan de sus lugares al posicionar esta o esa a partir de su posicion original
+   Static
+   Absolute: posiciona la caja a partir de arriba arriba
+   Fixed: parecido al ansolute pero en este caso el elemento se queda pegado en la pantalla
+*//*
+.caja_padre{
+width: 500px;
+height: 500px;
+background: #000;
+position: relative;
+
+}
+
+.caja{
+	position: absolute;
+	top: 0;
+	bottom:0 ;
+	right: 0;
+    left:200px; 
+}
+
+.caja3{
+	position: absolute;
+	top: 0;
+	bottom:0 ;
+	right: 0;
+    left:200px; 
+}*/
+
+.caja{
+	position:static; 
+}

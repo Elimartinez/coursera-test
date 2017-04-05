@@ -1,0 +1,15 @@
+
+h1{
+	font-weight: normal; /*Esto porque los encabezados siempre  tienen tipo de letra bold para que sea normal*/
+	text-align: center;
+}
+
+
+p{
+	font-family: "Edwardian Script ITC";
+	color: orange;
+	font-size: 30px;
+	font-weight: normal;/* Normal */
+	/* Para centrar texto */
+	text-align: center;
+}

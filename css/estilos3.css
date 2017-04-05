@@ -1,0 +1,21 @@
+body{
+	background: url(../Pictures/pp.jpg);
+	background-repeat: no-repeat;
+	color: yellow;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+
+div{
+background: url(../Pictures/l.jpg);
+height: 300px;
+
+
+}
+
+h1{
+color: rgba(56, 345, 121, 0.5);
+font-size:300px;
+
+}

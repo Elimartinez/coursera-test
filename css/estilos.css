@@ -1,0 +1,72 @@
+/*QUE PINTA*/
+
+/* Selectores
+selector universal que permite cambiar a todos los aspectos de mi pagina web
+
+* {
+	margin:20 ;  este margen es por todos los lados
+	padding:0 ;  separacion entre los elementos
+	color:#000000;
+}
+
+*/
+/*
+/* Selector para si queremos cambiar algo de un elemento en especifico por ejemplo h2
+h1, h2, h3, h4, h5, h6 {
+	color: red;
+}
+
+ para cambiar de tamanno de forma especifica
+h1{
+ font-size: 50px;
+}
+
+
+p {
+	font-size: 20px;
+}
+
+selector de clase class
+.green{
+	color: green;
+}
+
+selector para un link determinado que yo  selecione
+a[href="http://google.com"]{
+	color: yellow;
+	font-size: 30px;
+}
+
+*/
+
+/* Unidades relativas porque se adaptan
+   Ej: em, rem , px
+
+   Unidades absolutas que no cambian
+   Ej: cm, mm, in, todas las unidades de medida
+
+ */
+
+ body{
+ 	font-size: 20px;
+ }
+
+div{
+	background: #000;
+	color: #fff;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
